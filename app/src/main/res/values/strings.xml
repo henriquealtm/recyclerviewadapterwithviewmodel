@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewDataBinding</string>
+
+    <!-- Item Status -->
+    <string name="item_requested_message">Pending. Please wait… :|</string>
+    <string name="item_denied_title">Denied</string>
+    <string name="item_denied_message">This item is denied! :(</string>
+    <string name="item_approved_message">Approved Item Details</string>
+
+</resources>
